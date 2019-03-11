@@ -37,4 +37,4 @@ system's GTK 3 theme.  A dark theme variant may be preferred and can
 be specified on the command line via the `GTK_THEME` environment
 variable:
 
-    'GTK_THEME=Adwaita:dark remote-viewer
+    'GTK_THEME=Adwaita:dark remote-viewer'
