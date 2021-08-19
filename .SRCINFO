@@ -7,6 +7,7 @@ pkgbase = virt-viewer-nogui
 	license = GPL
 	makedepends = intltool
 	makedepends = spice-protocol
+	makedepends = gobject-introspection
 	depends = gtk-vnc
 	depends = libvirt
 	depends = spice-gtk
@@ -25,4 +26,3 @@ pkgbase = virt-viewer-nogui
 	sha512sums = fba18dd4370231709e3c21871877daa6406eb4cb7945decbd34f8d2b3d8105c9617ec01ce4eabdce11e39d6916529b376056d502a7fcb5717e2a7e3e6045e3e5
 
 pkgname = virt-viewer-nogui
-
